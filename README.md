@@ -7,6 +7,11 @@
   <li><a href="https://github.com/glerm-dev/Termlink">Termilink</li>
 </ul>
 
+## Java
+<ul>
+  <li><a href="https://github.com/glerm-dev/sistema-xadrez-java">Sistema Jogo de Xadrez</li>
+</ul>
+
 ## Python
 <ul>
   <li><a href="https://github.com/glerm-dev/jogo_adivinha">Jogo de Adivinha</li>
