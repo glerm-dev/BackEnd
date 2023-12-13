@@ -15,6 +15,5 @@
 ## Python
 <ul>
   <li><a href="https://github.com/glerm-dev/jogo_adivinha">Jogo de Adivinha</li>
-  <li><a href="https://github.com/glerm-dev/alterando-arquivos">Alterador de arquivos</li>
   <li><a href="https://github.com/glerm-dev/Bank-Account">BankAccount</li>
 </ul>
